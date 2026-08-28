@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=فيسبوك
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=kippjfofjhjlffjecoapiogbkgbpmgej
+Icon=chrome-kippjfofjhjlffjecoapiogbkgbpmgej-Default
+StartupWMClass=crx_kippjfofjhjlffjecoapiogbkgbpmgej

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Render
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=lgogijmjjcibdjloafhedkhbdkaakohl
+Icon=chrome-lgogijmjjcibdjloafhedkhbdkaakohl-Default
+StartupWMClass=crx_lgogijmjjcibdjloafhedkhbdkaakohl

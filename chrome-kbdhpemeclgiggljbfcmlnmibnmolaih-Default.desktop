@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Cloudflare
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=kbdhpemeclgiggljbfcmlnmibnmolaih
+Icon=chrome-kbdhpemeclgiggljbfcmlnmibnmolaih-Default
+StartupWMClass=crx_kbdhpemeclgiggljbfcmlnmibnmolaih

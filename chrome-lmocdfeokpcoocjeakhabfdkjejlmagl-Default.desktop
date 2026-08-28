@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=OSINT Search Engine
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=lmocdfeokpcoocjeakhabfdkjejlmagl
+Icon=chrome-lmocdfeokpcoocjeakhabfdkjejlmagl-Default
+StartupWMClass=crx_lmocdfeokpcoocjeakhabfdkjejlmagl

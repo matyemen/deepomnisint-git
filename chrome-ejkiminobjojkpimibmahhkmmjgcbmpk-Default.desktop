@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Spokeo
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=ejkiminobjojkpimibmahhkmmjgcbmpk
+Icon=chrome-ejkiminobjojkpimibmahhkmmjgcbmpk-Default
+StartupWMClass=crx_ejkiminobjojkpimibmahhkmmjgcbmpk

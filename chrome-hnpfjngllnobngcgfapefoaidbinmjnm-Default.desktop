@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=واتساب ويب
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=hnpfjngllnobngcgfapefoaidbinmjnm
+Icon=chrome-hnpfjngllnobngcgfapefoaidbinmjnm-Default
+StartupWMClass=crx_hnpfjngllnobngcgfapefoaidbinmjnm
