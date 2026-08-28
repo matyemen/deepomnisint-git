@@ -1,0 +1,45 @@
+# DeepOmnisint v3.0 — Python Dependencies
+# تثبيت: pip install -r requirements.txt
+
+# Core
+aiohttp>=3.9.0
+aiofiles>=23.0.0
+aiosqlite>=0.19.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+html5lib>=1.1
+
+# Reports
+jinja2>=3.1.0
+weasyprint>=60.0   # لتحويل HTML إلى PDF
+
+# Network
+fake-useragent>=1.4.0
+requests>=2.31.0
+aiodns>=3.0.0
+cchardet>=2.1.0
+
+# Telegram Bot
+python-telegram-bot>=20.0.0
+
+# CLI
+colorama>=0.4.6
+rich>=13.0.0
+tqdm>=4.66.0
+
+# Data Processing
+Pillow>=10.0.0
+pydantic>=2.0.0
+typing-extensions>=4.8.0
+
+# Visualization
+matplotlib>=3.7.0
+networkx>=3.1.0
+
+# Security
+cryptography>=41.0.0
+pycryptodome>=3.19.0
+
+# Optional — Screenshots
+# playwright>=1.40.0
+# selenium>=4.15.0
